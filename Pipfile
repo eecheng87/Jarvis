@@ -11,7 +11,7 @@ pygraphviz = "==1.5"
 transitions = "==0.6.9"
 line-bot-sdk = "==1.14.0"
 Flask = "==1.0.2"
-lxml = "==4.4.1"
+lxml = "==4.6.2"
 requests = "==2.22.0"
 requests-html = "==0.10.0"
 
